@@ -1,0 +1,23 @@
+/*********************************************************************
+* Assignment: Project 3 - GUI Move and Match Game                    *
+* Author:                                                            *
+* Date: Fall 2017                                                    *
+* File: resources.rc                                                 *
+*                                                                    *
+* Description: This file contains the                                *
+*********************************************************************/
+/*
+BACKGROUND_BMP 	BITMAP	Background.bmp
+ME_BMP 		BITMAP	Waldo.bmp
+SYMBOL1_BMP 	BITMAP	Eiffel.bmp
+*/
+BACKGROUND_BMP    BITMAP	MyBackground.bmp
+ME_BMP    BITMAP	Rocket.bmp
+
+VENUS_BMP   BITMAP	Venus.bmp//1
+CHEESE_BMP   BITMAP	Cheese.bmp//2
+NEPTUNE_BMP   BITMAP	Neptune.bmp//3
+MARS_BMP   BITMAP	Mars.bmp//4
+EARTH_BMP   BITMAP	Earth.bmp//5
+MOON_BMP   BITMAP	Moon.bmp//6
+PINKY_BMP   BITMAP	Pinky.bmp//7
